@@ -1,5 +1,4 @@
 # Chinese-Toxic-Comment-Detection
-# Chinese Toxic Comment Detection: Project README
 
 ## Project Overview
 
