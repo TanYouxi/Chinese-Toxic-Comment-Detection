@@ -15,7 +15,6 @@ This repository presents a comprehensive comparison of traditional machine learn
 ├── BERT-transformered.ipynb        # BERT-based model
 ├── llm_finetune_entry.ipynb        # Script to fine-tune LLMs using LLaMA-Factory
 ├── llm_evaluation_metrics.ipynb    # Script to evaluate LLM-generated predictions
-├── Chinese Toxic Comment Detection A Comparative Study.docx # Project paper
 ```
 
 ## Datasets
