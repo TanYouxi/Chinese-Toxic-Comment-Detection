@@ -79,16 +79,6 @@ Implemented in `llm_evaluation_metrics.ipynb`:
 * Precision
 * Recall
 
-## Key Results
-
-| Model               | Accuracy | F1 Score |
-| ------------------- | -------- | -------- |
-| Qwen1.5-7B (8bit)   | 94.71%   | 94.72%   |
-| ModernBERT          | 93.67%   | 93.66%   |
-| Logistic Regression | 90.00%   | 90.00%   |
-| CNN                 | 80.13%   | 73.74%   |
-| LSTM                | 77.16%   | 67.22%   |
-
 ## Conclusion
 
 Decoder-based LLMs (especially Qwen and LLaMA) show superior performance in detecting Chinese toxic comments, even under quantization. Encoder-based models offer a strong trade-off between performance and efficiency. Traditional ML and deep learning models perform reasonably but lack deep semantic understanding.
