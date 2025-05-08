@@ -66,7 +66,7 @@ Implemented in `data_preprocessing.ipynb`:
 
 ## Fine-Tuning
 
-* Framework: LLaMA-Factory
+* Framework: LLaMA-Factory https://github.com/hiyouga/LLaMA-Factory
 * Low-Rank Adaptation (LoRA) and Quantized LoRA (QLoRA) used
 * Fine-tuned using HuggingFace Transformers on Google Colab (NVIDIA L4 GPU)
 
